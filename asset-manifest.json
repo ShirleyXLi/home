@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.f20213e4.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/xli.jpg": "/static/media/xli.6f7958d21ca805a43565.jpg",
+    "static/media/huawei.jpeg": "/static/media/huawei.79b72ec6ea0a19be4b12.jpeg",
+    "static/media/uoe.png": "/static/media/uoe.1e6f4ba7b1f1deee88a7.png",
+    "index.html": "/index.html",
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.f20213e4.js.map": "/static/js/main.f20213e4.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.f20213e4.js"
+  ]
+}
